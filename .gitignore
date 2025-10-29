@@ -1,0 +1,7 @@
+# Ignore everything in the folder
+Story_Generator_Using_Image/*
+
+# But allow these files
+!Story_Generator_Using_Image/app.py
+!Story_Generator_Using_Image/Story_Generation.py
+!Story_Generator_Using_Image/requirements.txt

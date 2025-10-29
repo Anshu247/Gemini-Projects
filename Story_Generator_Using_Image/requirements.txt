@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+google-genai
+google-generativeai
+Pillow
+io
+BytesIo
+tempfile
+wave
+os
+traceback
